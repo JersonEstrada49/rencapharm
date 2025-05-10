@@ -1,1 +1,0 @@
-// Slider de imágenes

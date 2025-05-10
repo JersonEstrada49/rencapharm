@@ -1,1 +1,0 @@
-// Página principal con slider y productos
